@@ -1,0 +1,29 @@
+.disabled {
+    background-color: gray;
+}
+
+.enabled {
+    background-color: fuchsia;
+    color: goldenrod;
+}
+.flex-container{
+display: flex;
+flex-direction: row;
+
+}
+#orangeMirror{
+    border: orange solid 1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 50%;
+    min-height: 1em;
+    font-size: 2em;
+
+}
+#blueMirror{
+    border: blue dashed 1px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 50%;
+    min-height: 1em;
+    font-size: 2em;
+
+}
